@@ -44,6 +44,11 @@
   opacity: 0 !important;
 }
 
+#arena_frame body {
+  overflow-y: auto;
+}
+
 #arena_frame ul li.tab--container__nav__item {
   padding: 0 margin 0 10px !important;
 }
+
